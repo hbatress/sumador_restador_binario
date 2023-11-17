@@ -1,0 +1,38 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sat May 13 08:46:54 2023
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x00001c
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00000d      
+            14 out of 1094 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   Inicio   0x000000    program     static C:\Users\usuario\Desktop\trabajos de proteus\practica de circuito del dia 13 de mayo\codigo en mplab\CONDICIONALES.asm
+                Principal   0x000005    program     static C:\Users\usuario\Desktop\trabajos de proteus\practica de circuito del dia 13 de mayo\codigo en mplab\CONDICIONALES.asm
+                   apagar   0x00000b    program     static C:\Users\usuario\Desktop\trabajos de proteus\practica de circuito del dia 13 de mayo\codigo en mplab\CONDICIONALES.asm
+                 encender   0x000008    program     static C:\Users\usuario\Desktop\trabajos de proteus\practica de circuito del dia 13 de mayo\codigo en mplab\CONDICIONALES.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   Inicio   0x000000    program     static C:\Users\usuario\Desktop\trabajos de proteus\practica de circuito del dia 13 de mayo\codigo en mplab\CONDICIONALES.asm
+                Principal   0x000005    program     static C:\Users\usuario\Desktop\trabajos de proteus\practica de circuito del dia 13 de mayo\codigo en mplab\CONDICIONALES.asm
+                 encender   0x000008    program     static C:\Users\usuario\Desktop\trabajos de proteus\practica de circuito del dia 13 de mayo\codigo en mplab\CONDICIONALES.asm
+                   apagar   0x00000b    program     static C:\Users\usuario\Desktop\trabajos de proteus\practica de circuito del dia 13 de mayo\codigo en mplab\CONDICIONALES.asm
+
+
